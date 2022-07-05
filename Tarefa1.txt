@@ -1,3 +1,5 @@
 Tarefa 1 (Encontro Remoto)
 
 https://github.com/Thiago-nascimento/referencia-git#comandos-b%C3%A1sicos-git-e-github
+
+Alterações feitas no trabalho.
